@@ -1,7 +1,7 @@
 owner: melodyover
 repo: upptime
 sites:
-  - name: "博客"
+  - name: Blog  
     url: $INDEX
   - name: AI
     url: $API

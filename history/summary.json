@@ -1,20 +1,20 @@
 [
   {
-    "name": "博客",
+    "name": "Blog  ",
     "url": "$INDEX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "",
+    "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 591,
-    "timeDay": 591,
-    "timeWeek": 591,
-    "timeMonth": 591,
-    "timeYear": 591,
+    "time": 671,
+    "timeDay": 671,
+    "timeWeek": 671,
+    "timeMonth": 671,
+    "timeYear": 671,
     "dailyMinutesDown": {}
   },
   {

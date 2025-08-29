@@ -1,9 +1,9 @@
 owner: melodyover
 repo: upptime
 sites:
-  - name: QingMing
+  - name: 博客
     url: $index
-  - name: NEWAPI
+  - name: AI
     url: $API
 
 status-website:

@@ -1,7 +1,7 @@
 url: $INDEX
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-14T19:58:12.231Z
+status: up
+code: 200
+responseTime: 624
+lastUpdated: 2025-09-14T20:24:46.987Z
 startTime: 2025-08-29T12:28:13.161Z
 generator: Upptime <https://github.com/upptime/upptime>

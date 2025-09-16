@@ -4,18 +4,19 @@
     "url": "$INDEX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "99.89%",
+    "status": "down",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 526,
     "timeDay": 249,
     "timeWeek": 454,
     "timeMonth": 526,
     "timeYear": 526,
     "dailyMinutesDown": {
+      "2025-09-16": 0,
       "2025-09-14": 27
     }
   },

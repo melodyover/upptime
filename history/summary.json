@@ -25,19 +25,19 @@
     "url": "$API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ai",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 244,
-    "timeDay": 121,
-    "timeWeek": 131,
-    "timeMonth": 244,
-    "timeYear": 244,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 249,
+    "timeDay": 253,
+    "timeWeek": 162,
+    "timeMonth": 249,
+    "timeYear": 249,
     "dailyMinutesDown": {
-      "2025-09-18": 0
+      "2025-09-18": 31
     }
   }
 ]

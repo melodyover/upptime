@@ -2,9 +2,9 @@ owner: melodyover
 repo: upptime
 sites:
   - name: Blog  
-    url: $INDEX
+    url: baidu.com
   - name: AI
-    url: $API
+    url: bing.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

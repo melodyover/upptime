@@ -1,11 +1,6 @@
 owner: melodyover
 repo: upptime
 sites:
-  - name: Blog  
-    url: https://www.baidu.com
-  - name: AI
-    url: https://bing.com
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
